@@ -1,0 +1,16 @@
+{
+  "documents": {
+    "61cb4e22-7deb-4fc1-8506-283c8aa2930b": {
+      "id": "61cb4e22-7deb-4fc1-8506-283c8aa2930b",
+      "version": 0,
+      "data": {
+        "title": "My Note",
+        "color": "Blue"
+      },
+      "history": [],
+      "operations": {},
+      "createdAt": "2026-10-03T09:55:50.063Z",
+      "updatedAt": "2026-10-03T09:55:50.063Z"
+    }
+  }
+}
